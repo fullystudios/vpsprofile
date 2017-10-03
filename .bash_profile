@@ -1,3 +1,8 @@
+# Shortcodes
+alias gotoroot='cd /var/www/html/'
+# alias gototheme='cd /var/www/html/bedrock/web/app/themes/ssl_sage8'
+alias serverblocks='cd /etc/nginx/sites-available'
+
 # Terminal handling
 alias c="clear"
 
@@ -18,7 +23,6 @@ alias ...="cd ../.."
 
 # Laravel 
 alias pa="php artisan"
-
 
 # Mod dot
 alias editbash="cd ~ && sublime .bash_profile && cd -"
